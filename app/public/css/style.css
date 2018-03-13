@@ -1,0 +1,92 @@
+body {
+	background: url("../love-heart-sky-26583553.jpg");
+	
+}
+
+.jumbotron{
+	
+	margin: auto;
+	margin-top: 100px;
+	line-height: 100px;
+	text-align: center;
+	font-family: "Arial", Verdana, serif;
+	font-weight: strong;
+	font-size: 50px;
+}
+
+#click{
+	font-size: 10px;
+}
+    
+
+.hidden{
+display: none;
+
+}
+
+.showThenHide{
+display: none;
+}
+
+.hidden_until_end{
+display: none;
+}
+
+
+	
+.btn{
+	width: 25%;
+}
+
+
+.questions {
+    font-size: 30px;
+	font-weight: bold;
+}
+
+.answers {
+	font-size: 18px;
+}
+
+
+#radio(
+font-size: 12px;
+
+}
+
+
+	
+#time_left{
+	font-family: "Arial", Verdana, serif;
+	font-weight: strong;
+	font-size: 24px;
+}
+
+#seconds{
+	display: inline-block;
+}
+
+#all_done {
+	
+	font-weight: bold;
+	font-size: 30px;
+	line-height: 100%;
+}
+	
+#correct_answers{
+	font-weight: bold;
+	line-height: 100%;
+	
+}
+
+#incorrect_answers{
+	font-weight: bold;
+	line-height: 100%;
+	
+}
+
+#unanswered{
+	font-weight: bold;
+	line-height: 100%;
+	
+}
